@@ -1,7 +1,9 @@
 ## README
 I'm still learning C++,and don't have any particular strengths.If you see me somewhere,please just ignore me.
 ## Contact directly
-Email.
+Email.\
+[Outlook](mailto:zxrwei@outlook.com)
+[QQ](mailto:zxrwei@qq.com)
 ## Submitting something related to Phigros?
 You're really something for finding me here.\
 [In GitHub](https://github.com/ZXRwei/ZXRwei-Score_file/issues)
