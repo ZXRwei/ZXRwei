@@ -1,5 +1,5 @@
 ## README
-I'm still learning C++,and don't have any particular strengths.If you see me somewhere,please just ignore me.
+I'm still learning![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=ffffff">),and don't have any particular strengths.If you see me somewhere,please just ignore me.
 ## Contact directly
 Email.\
 [Outlook](mailto:zxrwei@outlook.com)
